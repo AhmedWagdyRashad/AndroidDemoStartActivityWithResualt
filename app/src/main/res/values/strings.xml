@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StartActivityWithResult</string>
+    <string name="number">number</string>
+    <string name="enter">Enter</string>
+</resources>
